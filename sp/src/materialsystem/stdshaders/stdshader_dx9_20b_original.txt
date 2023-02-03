@@ -10,7 +10,7 @@
 //example_model_ps20b.fxc
 //example_model_vs20.fxc
 
-/*SDK_Bloom_ps2x.fxc
+SDK_Bloom_ps2x.fxc
 SDK_screenspaceeffect_vs20.fxc
 
 SDK_bloomadd_ps2x.fxc
@@ -101,7 +101,7 @@ SDK_engine_post_ps20b.fxc
 depth_of_field_ps20b.fxc
 depth_of_field_vs20.fxc
 
-*/blurgaussian_3x3_ps2x.fxc
+blurgaussian_3x3_ps2x.fxc
 
 solidenergy_vs20.fxc
 solidenergy_ps20b.fxc
