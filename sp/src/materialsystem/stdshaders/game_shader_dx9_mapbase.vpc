@@ -66,10 +66,6 @@ $Project
 		$File	"depthoffield_dx9.cpp"
 		
 		$File	"core_dx9.cpp"
-		
-		$File	"solidenergy_dx9.cpp"
-		$File	"solidenergy_dx9_helper.cpp"
-		$File	"solidenergy_dx9_helper.h"
 	}
 
 	//$Shaders	"mapbase_dx9_20b.txt"
